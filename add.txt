@@ -1,0 +1,7 @@
+class Add{
+	private int a;
+	private int b;
+	
+	public int c;
+	c = a+b;
+}
